@@ -6,7 +6,7 @@ Profile README with personalized animations and design
   <img
     width="100%"
     alt="Chen Hong"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/header.svg?v=1"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/header.svg?v=2"
   />
 </p>
 
@@ -30,9 +30,10 @@ Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large languag
 - 🌐 **Portfolio**: https://zoharchen.cn
 
 <p>
-  <img src="https://img.shields.io/badge/Efficient%20LLMs-FF6B6B?style=for-the-badge" alt="Efficient LLMs" />
-  <img src="https://img.shields.io/badge/KV%20Cache%20Compression-FF8E53?style=for-the-badge" alt="KV Cache Compression" />
-  <img src="https://img.shields.io/badge/NLP-00D4FF?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Efficient%20LLMs-4F46E5?style=for-the-badge&labelColor=1e1b4b" alt="Efficient LLMs" />
+  <img src="https://img.shields.io/badge/KV%20Cache%20Compression-6D28D9?style=for-the-badge&labelColor=1e1b4b" alt="KV Cache Compression" />
+  <img src="https://img.shields.io/badge/Nested%20Learning-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="Nested Learning" />
+  <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge&labelColor=1e1b4b" alt="NLP" />
 </p>
 
 ---
@@ -42,7 +43,7 @@ Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large languag
 <p align="center">
   <img
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/output/github-contribution-grid-snake.svg?v=20260604"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/output/github-contribution-grid-snake.svg?v=20260604b"
   />
 </p>
 
@@ -70,13 +71,13 @@ Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large languag
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://zoharchen.cn"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/ChenHong30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:hchen763@connect.hkust-gz.edu.cn"><img src="https://img.shields.io/badge/Email-FF8E53?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://zoharchen.cn"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1e1b4b" alt="Portfolio" /></a>
+  <a href="https://github.com/ChenHong30"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub" /></a>
+  <a href="mailto:hchen763@connect.hkust-gz.edu.cn"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChenHong30&style=flat-square&color=FF6B6B" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ChenHong30&style=flat-square&color=6D28D9" alt="Profile Views" />
 </p>

@@ -75,8 +75,8 @@
 
     <!-- soft moving waves at the bottom -->
     <g opacity="0.22">
-      <path class="wave1" d="M-200 178 q 50 -26 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 V220 H-200 Z" fill="#ffffff"/>
-      <path class="wave2" d="M-200 192 q 50 -22 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 V220 H-200 Z" fill="#a5b4fc"/>
+      <path class="wave1" d="M-400 178 q 50 -26 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 V220 H-400 Z" fill="#ffffff"/>
+      <path class="wave2" d="M-400 192 q 50 -22 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 t 100 0 V220 H-400 Z" fill="#a5b4fc"/>
     </g>
 
     <!-- floating particles -->
