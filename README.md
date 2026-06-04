@@ -43,7 +43,7 @@ Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large languag
 <p align="center">
   <img
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/output/github-contribution-grid-snake.svg?v=20260604"
   />
 </p>
 
