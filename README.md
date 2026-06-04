@@ -25,7 +25,7 @@ Profile README with personalized animations and design
   <img
     width="92%"
     alt="About Chen Hong"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/about.svg?v=1"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/about.svg?v=2"
   />
 </p>
 
