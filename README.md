@@ -8,11 +8,7 @@ Custom styling inspired by modern profile templates
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=880&lines=Welcome+to+my+GitHub+space!;Crafting+elegant+solutions+with+code;Exploring+AI+and+Web+Technologies;Let's+build+something+amazing+together!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF6B6B&center=true&vCenter=true&width=880&lines=Welcome+to+my+GitHub+space!;Crafting+elegant+solutions+with+code;Exploring+AI+and+Web+Technologies;Let's+build+something+amazing+together!">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF6B6B&center=true&vCenter=true&width=880&lines=Welcome+to+my+GitHub+space!;Crafting+elegant+solutions+with+code;Exploring+AI+and+Web+Technologies;Let's+build+something+amazing+together!" alt="Typing SVG" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=880&lines=Welcome+to+my+GitHub+space!;Crafting+elegant+solutions+with+code;Exploring+AI+and+Web+Technologies;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,26 +23,10 @@ Hi 👋 I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast 
 - 🌐 **Portfolio**: [zoharchen.cn](https://zoharchen.cn)
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge&logoColor=white" alt="Full Stack" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Machine%20Learning-FF8E53?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Machine%20Learning-FF8E53?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF8E53?style=for-the-badge&logoColor=white" alt="Machine Learning" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Web%20Dev-FFC93C?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Web%20Dev-FFC93C?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Web%20Dev-FFC93C?style=for-the-badge&logoColor=white" alt="Web Development" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%2FNLP-00D4FF?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AI%2FNLP-00D4FF?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI%2FNLP-00D4FF?style=for-the-badge&logoColor=white" alt="AI/NLP" />
-  </picture>
+  <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF8E53?style=for-the-badge&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Web%20Dev-FFC93C?style=for-the-badge&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/AI%2FNLP-00D4FF?style=for-the-badge&logoColor=white" alt="AI/NLP" />
 </p>
 
 ---
@@ -54,56 +34,16 @@ Hi 👋 I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast 
 ## 🛠 Technical Stack
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  </picture>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
