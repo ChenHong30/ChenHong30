@@ -5,8 +5,8 @@ Profile README with personalized animations and design
 <p align="center">
   <img
     width="100%"
-    alt="Header"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Chen%20Hong&fontColor=ffffff&fontSize=86&color=0:2575FC,100:6A11CB"
+    alt="Chen Hong"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/header.svg?v=1"
   />
 </p>
 
