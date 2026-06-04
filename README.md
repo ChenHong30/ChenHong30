@@ -6,14 +6,14 @@ Profile README with personalized animations and design
   <img
     width="100%"
     alt="Header"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Zohar%20Chen&fontColor=ffffff&fontSize=86&color=0:FF6B6B,100:00D4FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Chen%20Hong&fontColor=ffffff&fontSize=86&color=0:FF6B6B,100:00D4FF"
   />
 </p>
 
 <p align="center">
   <img
     alt="Typing SVG"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=880&lines=Welcome+to+my+GitHub+space!;Crafting+elegant+solutions+with+code;Exploring+AI+and+Web+Technologies;Let's+build+something+amazing+together!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=MPhil+%40+HKUST(GZ)+%E2%86%92+Incoming+PhD+in+AI;Researching+Efficient+Large+Language+Models;KV+Cache+Compression+%C2%B7+Federated+Learning;Making+LLMs+faster%2C+lighter%2C+and+smarter"
   />
 </p>
 
@@ -21,18 +21,20 @@ Profile README with personalized animations and design
 
 ## 🚀 About Me
 
-Hi! I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast dedicated to building innovative solutions and exploring the frontiers of technology.
+Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large language models more efficient. I'm an MPhil student in Artificial Intelligence at **HKUST (Guangzhou)** and an incoming PhD student under **Prof. Xuming Hu**.
 
-- 💼 **Focus**: Full Stack Development, Web Applications, AI/ML
-- 🔬 **Interests**: Machine Learning, Knowledge Graphs, Natural Language Processing
-- 💻 **Tech Stack**: TypeScript, Python, React, Node.js, and more
+- 🎓 **Now**: MPhil in AI @ HKUST(GZ) · Incoming PhD in AI (2026–2029)
+- 🔬 **Research**: Efficient LLMs, KV Cache Compression, Federated Learning, Nested Learning, Test-time Adaptation
+- 🧪 **Projects**: NestedKV (key-only KV cache compression) · SONIC (dialogue compression into Nexus tokens) · Federated Nested Learning
+- 💼 **Experience**: Research Assistant @ Xiamen University · Business Analysis Intern @ Tencent
+- 📚 **Background**: M.S. Business Analytics @ NUS · B.S. Financial Mathematics @ BNU-HKBU
 - 🌐 **Portfolio**: https://zoharchen.cn
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF8E53?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Web%20Dev-FFC93C?style=for-the-badge" alt="Web Development" />
-  <img src="https://img.shields.io/badge/AI%2FNLP-00D4FF?style=for-the-badge" alt="AI/NLP" />
+  <img src="https://img.shields.io/badge/Efficient%20LLMs-FF6B6B?style=for-the-badge" alt="Efficient LLMs" />
+  <img src="https://img.shields.io/badge/KV%20Cache%20Compression-FF8E53?style=for-the-badge" alt="KV Cache Compression" />
+  <img src="https://img.shields.io/badge/Federated%20Learning-FFC93C?style=for-the-badge" alt="Federated Learning" />
+  <img src="https://img.shields.io/badge/NLP-00D4FF?style=for-the-badge" alt="NLP" />
 </p>
 
 ---
@@ -51,15 +53,17 @@ Hi! I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast dedi
 ## 🛠 Technical Stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -68,15 +72,9 @@ Hi! I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast dedi
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://zoharchen.cn">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ChenHong30">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:contact%40zoharchen.cn">
-    <img src="https://img.shields.io/badge/Email-FF8E53?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://zoharchen.cn"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ChenHong30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hchen763@connect.hkust-gz.edu.cn"><img src="https://img.shields.io/badge/Email-FF8E53?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
