@@ -13,7 +13,7 @@ Profile README with personalized animations and design
 <p align="center">
   <img
     alt="Typing SVG"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=MPhil+%40+HKUST(GZ)+%E2%86%92+Incoming+PhD+in+AI;Researching+Efficient+Large+Language+Models;KV+Cache+Compression+%C2%B7+Federated+Learning;Making+LLMs+faster%2C+lighter%2C+and+smarter"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/typing.svg?v=1"
   />
 </p>
 
