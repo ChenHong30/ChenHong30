@@ -6,7 +6,7 @@ Profile README with personalized animations and design
   <img
     width="100%"
     alt="Header"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Chen%20Hong&fontColor=ffffff&fontSize=86&color=0:FF6B6B,100:00D4FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Chen%20Hong&fontColor=ffffff&fontSize=86&color=0:2575FC,100:6A11CB"
   />
 </p>
 
@@ -24,7 +24,7 @@ Profile README with personalized animations and design
 Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large language models more efficient. I'm an MPhil student in Artificial Intelligence at **HKUST (Guangzhou)** and an incoming PhD student under **Prof. Xuming Hu**.
 
 - 🎓 **Now**: MPhil in AI @ HKUST(GZ) · Incoming PhD in AI (2026–2029)
-- 🔬 **Research**: Efficient LLMs, KV Cache Compression, Federated Learning, Nested Learning, Test-time Adaptation
+- 🔬 **Research**: Efficient LLMs, KV Cache Compression, Nested Learning, Test-time Adaptation
 - 💼 **Experience**: Research Assistant @ Xiamen University · Business Analysis Intern @ Tencent
 - 📚 **Background**: M.S. Business Analytics @ NUS · B.S. Financial Mathematics @ BNU-HKBU
 - 🌐 **Portfolio**: https://zoharchen.cn
@@ -32,7 +32,6 @@ Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large languag
 <p>
   <img src="https://img.shields.io/badge/Efficient%20LLMs-FF6B6B?style=for-the-badge" alt="Efficient LLMs" />
   <img src="https://img.shields.io/badge/KV%20Cache%20Compression-FF8E53?style=for-the-badge" alt="KV Cache Compression" />
-  <img src="https://img.shields.io/badge/Federated%20Learning-FFC93C?style=for-the-badge" alt="Federated Learning" />
   <img src="https://img.shields.io/badge/NLP-00D4FF?style=for-the-badge" alt="NLP" />
 </p>
 
