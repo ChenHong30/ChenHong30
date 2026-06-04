@@ -21,13 +21,13 @@ Profile README with personalized animations and design
 
 ## 🚀 About Me
 
-<p align="center">
-  <img
-    width="90%"
-    alt="About Chen Hong"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/about.svg?v=20260604c"
-  />
-</p>
+Welcome to my corner of GitHub 👋 A few things beyond the intro above:
+
+- 🧑‍🏫 **Advisor**: Prof. Xuming Hu
+- 🔬 **Also exploring**: Test-time Adaptation
+- 💼 **Experience**: Research Assistant @ Xiamen University · Business Analysis Intern @ Tencent
+- 📚 **Background**: M.S. Business Analytics @ NUS · B.S. Financial Mathematics @ BNU-HKBU
+- 🌐 **Portfolio**: https://zoharchen.cn
 
 ---
 
