@@ -31,6 +31,14 @@ Hi 👋 I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast 
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🛠 Technical Stack
 
 <p>
@@ -57,7 +65,7 @@ Hi 👋 I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast 
   <a href="https://github.com/ChenHong30">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:contact@zoharchen.cn">
+  <a href="mailto:contact.zoharchen@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF8E53?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
