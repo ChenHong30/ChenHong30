@@ -21,13 +21,7 @@ Profile README with personalized animations and design
 
 ## 🚀 About Me
 
-Welcome to my corner of GitHub 👋 A few things beyond the intro above:
-
-- 🧑‍🏫 **Advisor**: Prof. Xuming Hu
-- 🔬 **Also exploring**: Test-time Adaptation
-- 💼 **Experience**: Research Assistant @ Xiamen University · Business Analysis Intern @ Tencent
-- 📚 **Background**: M.S. Business Analytics @ NUS · B.S. Financial Mathematics @ BNU-HKBU
-- 🌐 **Portfolio**: https://zoharchen.cn
+Welcome to my corner of GitHub 👋 My name is Chen Hong (陈鸿). I am an MPhil student and an incoming PhD candidate in AI at HKUST(GZ), supervised by Prof. Xuming Hu. My research interests include Efficient LLMs and Multimodal LLMs. I obtained a Master's degree from the NUS and a Bachelor's degree from BNBU. Please feel free to contact me if you would like to discuss any potential ideas.
 
 ---
 
@@ -49,12 +43,8 @@ Welcome to my corner of GitHub 👋 A few things beyond the intro above:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
