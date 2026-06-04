@@ -25,7 +25,6 @@ Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large languag
 
 - 🎓 **Now**: MPhil in AI @ HKUST(GZ) · Incoming PhD in AI (2026–2029)
 - 🔬 **Research**: Efficient LLMs, KV Cache Compression, Federated Learning, Nested Learning, Test-time Adaptation
-- 🧪 **Projects**: NestedKV (key-only KV cache compression) · SONIC (dialogue compression into Nexus tokens) · Federated Nested Learning
 - 💼 **Experience**: Research Assistant @ Xiamen University · Business Analysis Intern @ Tencent
 - 📚 **Background**: M.S. Business Analytics @ NUS · B.S. Financial Mathematics @ BNU-HKBU
 - 🌐 **Portfolio**: https://zoharchen.cn
