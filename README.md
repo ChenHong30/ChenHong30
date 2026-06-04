@@ -23,10 +23,10 @@ Hi 👋 I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast 
 - 🌐 **Portfolio**: [zoharchen.cn](https://zoharchen.cn)
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF8E53?style=for-the-badge&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Web%20Dev-FFC93C?style=for-the-badge&logoColor=white" alt="Web Development" />
-  <img src="https://img.shields.io/badge/AI%2FNLP-00D4FF?style=for-the-badge&logoColor=white" alt="AI/NLP" />
+  <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF8E53?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Web%20Dev-FFC93C?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/AI%2FNLP-00D4FF?style=for-the-badge" alt="AI/NLP" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Hi 👋 I'm **Zohar Chen**, a passionate full-stack developer and AI enthusiast 
   <a href="https://github.com/ChenHong30">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:contact.zoharchen@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.zoharchen@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF8E53?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
