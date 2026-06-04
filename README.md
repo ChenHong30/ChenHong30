@@ -23,17 +23,10 @@ Profile README with personalized animations and design
 
 <p align="center">
   <img
-    width="92%"
+    width="90%"
     alt="About Chen Hong"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/about.svg?v=2"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/about.svg?v=3"
   />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Efficient%20LLMs-4F46E5?style=for-the-badge&labelColor=1e1b4b" alt="Efficient LLMs" />
-  <img src="https://img.shields.io/badge/KV%20Cache%20Compression-6D28D9?style=for-the-badge&labelColor=1e1b4b" alt="KV Cache Compression" />
-  <img src="https://img.shields.io/badge/Nested%20Learning-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="Nested Learning" />
-  <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge&labelColor=1e1b4b" alt="NLP" />
 </p>
 
 ---
