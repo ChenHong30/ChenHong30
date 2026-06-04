@@ -21,15 +21,15 @@ Profile README with personalized animations and design
 
 ## 🚀 About Me
 
-Hi! I'm **Chen Hong (陈鸿)**, an AI researcher focused on making large language models more efficient. I'm an MPhil student in Artificial Intelligence at **HKUST (Guangzhou)** and an incoming PhD student under **Prof. Xuming Hu**.
+<p align="center">
+  <img
+    width="92%"
+    alt="About Chen Hong"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/about.svg?v=1"
+  />
+</p>
 
-- 🎓 **Now**: MPhil in AI @ HKUST(GZ) · Incoming PhD in AI (2026–2029)
-- 🔬 **Research**: Efficient LLMs, KV Cache Compression, Nested Learning, Test-time Adaptation
-- 💼 **Experience**: Research Assistant @ Xiamen University · Business Analysis Intern @ Tencent
-- 📚 **Background**: M.S. Business Analytics @ NUS · B.S. Financial Mathematics @ BNU-HKBU
-- 🌐 **Portfolio**: https://zoharchen.cn
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Efficient%20LLMs-4F46E5?style=for-the-badge&labelColor=1e1b4b" alt="Efficient LLMs" />
   <img src="https://img.shields.io/badge/KV%20Cache%20Compression-6D28D9?style=for-the-badge&labelColor=1e1b4b" alt="KV Cache Compression" />
   <img src="https://img.shields.io/badge/Nested%20Learning-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="Nested Learning" />
