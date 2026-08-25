@@ -13,7 +13,7 @@ Profile README with personalized animations and design
 <p align="center">
   <img
     alt="Typing SVG"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/typing.svg?v=3"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/typing.svg?v=20260825"
   />
 </p>
 
