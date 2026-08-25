@@ -13,7 +13,7 @@ Profile README with personalized animations and design
 <p align="center">
   <img
     alt="Typing SVG"
-    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/typing.svg?v=2"
+    src="https://raw.githubusercontent.com/ChenHong30/ChenHong30/main/assets/typing.svg?v=3"
   />
 </p>
 
@@ -21,7 +21,7 @@ Profile README with personalized animations and design
 
 ## 🚀 About Me
 
-Welcome to my corner of GitHub 👋 My name is Chen Hong (陈鸿). I am an MPhil student and an incoming PhD candidate in AI at HKUST(GZ), supervised by Prof. Xuming Hu. My research interests include Efficient LLMs and Multimodal LLMs. I obtained a Master's degree from the NUS and a Bachelor's degree from BNBU. Please feel free to contact me if you would like to discuss any potential ideas.
+Welcome to my corner of GitHub 👋 My name is Chen Hong (陈鸿). I am an AI PhD Student in AI at HKUST(GZ), supervised by Prof. Xuming Hu. My research interests include Efficient LLMs and Multimodal LLMs. I obtained a Master's degree from the NUS and a Bachelor's degree from BNBU. Please feel free to contact me if you would like to discuss any potential ideas.
 
 ---
 
